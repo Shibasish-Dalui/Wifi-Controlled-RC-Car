@@ -18,7 +18,7 @@
 
 <pre>http://arduino.esp8266.com/stable/package_esp8266com_index.json</pre>
 
-## Default Credentials Of The Wifi :
+## Default Credentials Of The Wifi
 
 SSID : RC_PowerCAR <br>
 Password : connect_me <br>
