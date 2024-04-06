@@ -30,7 +30,7 @@ Password : connect_me <br>
 
 <br>
 
-## Pin Diagram
+## Pin Configurations
 
 <table>
     <thead>
