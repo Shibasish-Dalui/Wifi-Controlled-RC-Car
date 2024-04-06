@@ -1,38 +1,23 @@
 # Wifi-Controlled-RC-Car
 
-<img style="border-radius:20px;"
-    src="https://user-images.githubusercontent.com/98148986/215330952-fe20a968-042e-4fcf-b7df-bcbfcf8cc1d3.png">
-
-<br>
-
-<h1 align="center">Code for esp8266 to build a Wifi controlled car using BTS7960B Motor Driver</h1>
-
-<br>
-
 ## Requirements
 
-- NodeMCU ( esp8266 ) - 1pcs
-- BTS7960B Motor Driver - 2pcs
-- 12-24v DC Motors - 2/4 pcs
-- Jumper wires
-- Powersupply according to Motors
-- 5v Power supply for Nodemcu and BTS7960B
+➢ NodeMCU ESP8266 micro-controller <br>
+➢ BTS7960B Motor Driver ( x 2 ) <br>
+➢ 12-24V DC Motors ( x 4 ) <br>
+➢ Jumper wires <br>
+➢ Powersupply according to Motors <br>
+➢ 5V power supply for ESP8266 and BTS7960B <br>
 
-## Additional Board Manager URL for NodeMCU:
+
+## Additional Board Manager URL for NodeMCU ESP8266
 
 <pre>http://arduino.esp8266.com/stable/package_esp8266com_index.json</pre>
 
-## Default Wifi Station credentials of NodeMCU:
+## Default Wifi Station credentials of NodeMCU :
 
-SSID:
-
-<pre>RC_PowerCAR</pre>
-
-Password:
-
-<pre>connect_me</pre>
-
-<br>
+SSID : RC_PowerCAR <br>
+Password : connect_me <br>
 
 <h2 align="center"> <a
         href="https://play.google.com/store/apps/details?id=com.bluino.esp8266wifirobotcar&hl=en_US&gl=US">Android
