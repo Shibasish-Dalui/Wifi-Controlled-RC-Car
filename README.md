@@ -2,6 +2,10 @@
 
 ## Requirements
 
+<img style="border-radius:10px;"
+    src="https://github.com/Shibasish-Dalui/Wifi-Controlled-RC-Car/blob/main/components.png">
+<br>
+
 ➢ NodeMCU ESP8266 micro-controller <br>
 ➢ BTS7960B Motor Driver ( x 2 ) <br>
 ➢ 12-24V DC Motors ( x 4 ) <br>
@@ -10,11 +14,11 @@
 ➢ 5V power supply for ESP8266 and BTS7960B <br>
 
 
-## Additional Board Manager URL for NodeMCU ESP8266
+## Additional Board Manager URL For NodeMCU ESP8266
 
 <pre>http://arduino.esp8266.com/stable/package_esp8266com_index.json</pre>
 
-## Default Wifi Station credentials of NodeMCU :
+## Default Credentials Of The Wifi :
 
 SSID : RC_PowerCAR <br>
 Password : connect_me <br>
